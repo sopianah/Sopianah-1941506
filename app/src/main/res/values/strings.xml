@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tombol</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="login_state"></string>
+    <string name="login_home">Sopianah, sudah Login!</string>
+    <string name="auth_failed">Mohon maaf akun ini tidak memiliki akses ke aplikasi</string>
+</resources>
